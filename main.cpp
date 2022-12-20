@@ -358,17 +358,17 @@ int main() {
       break;
     case 7:
       move(40,14);
-      cout << "THANK YOU! FOR USING OUR Systm"<<endl;
+      cout << "THANKS FOR USING OUR SYSTM❤"<<endl;
       move(40,15);
-      cout << "Developers:"<<endl;
+      cout << "DEVELOPERS:"<<endl;
       move(40,16);
-      cout << "Shawky"<<endl;
+      cout << "SHAWKY"<<endl;
       move(40,17);
-      cout << "Nourhan"<<endl;
+      cout << "NOURHAN"<<endl;
       move(40,18);
-      cout << "Wahid"<<endl;
+      cout << "WAHID"<<endl;
       move(40,19);
-      cout << "Jeo"<<endl;
+      cout << "JEO"<<endl;
 
       break;
     default:
