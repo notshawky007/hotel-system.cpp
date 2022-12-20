@@ -165,7 +165,7 @@ cout<<"\n---------------------------------------";
 getch();
 }
 
-//hotel management booking of room
+//hotel management reservation of room
 void HotelMgnt::checkIn()
 {
 int i,found=0,rno;
@@ -220,7 +220,7 @@ getch();
 }
 
 
-//hotel management shows available rooms
+//hotel management shows available room
 void HotelMgnt::getAvailRoom()
 {
 int i,found=0;
