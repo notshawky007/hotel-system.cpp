@@ -1,5 +1,4 @@
 #include<iostream>
-
 #include<string.h>
 #include<windows.h>
 #include<conio.h>
@@ -19,7 +18,8 @@ class Customer {
 };
 
 class Room {
-  public: char type;
+  public:
+  char type;
   char stype;
   char ac;
   int roomNumber;
